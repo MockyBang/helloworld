@@ -49,6 +49,9 @@ var index_config_default = {
     username: "",
     password: ""
   },
+  putao: {
+    url: "https://caiji.putaozy.net/inc/api.php"
+  },
   xiaoya: {
     url: "https://tvbox.omii.top/vod1/DixHtoGB"
   },
